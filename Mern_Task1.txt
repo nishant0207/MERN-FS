@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nishant Dalal</title>
+</head>
+<body>
+    <form>
+        <table border="1" style="background-color: aquamarine; border-collapse: collapse;">
+            <tr>
+                  <td style="border: 1px solid white;">First</td>
+                  <td style="border: 1px solid white;">Name</td>
+                  <td style="border: 1px solid white;">Age</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid white;">Jill</td>
+                <td style="border: 1px solid white;">Smith</td>
+                <td style="border: 1px solid white;">50</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid white;">Eve</td>
+                <td style="border: 1px solid white;">Jackson</td>
+                <td style="border: 1px solid white;">94</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid white;">John</td>
+                <td style="border: 1px solid white;">Doe</td>
+                <td style="border: 1px solid white;">80</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
