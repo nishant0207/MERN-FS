@@ -63,13 +63,13 @@
             <tr>
                 <td>Address</td>
                 <td>
-                    <input type="text" name="Address" style="text-area">
+                    <textarea></textarea>
                 </td>
             </tr>
             <tr>
                 <td>State</td>
                 <td>
-                    <textarea></textarea>
+                    <input type="text" name="State">
                 </td>
             </tr>
             <tr>
