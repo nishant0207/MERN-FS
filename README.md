@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" style="background-color: peachpuff;">
 <head>
     <meta charset="UTF-8">
