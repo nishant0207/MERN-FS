@@ -7,9 +7,9 @@
 <body>
     <center>
         <h1 style="background-color: black; color: aliceblue; font-family:'Courier New', Courier, monospace">Nishant's Index page</h1>
-        <table border="1" style="border-width: 10px; border-radius: 20px; border-block-color: white;">
+        <table border="1" style="border-width: 10px; border-radius: 20px; border-block-color: white;>
             <tr>
-                <th colspan="2" style="color: aliceblue; background-color: black;"">HTML task</th>
+                <th colspan="2" style="color: aliceblue; background-color: black;">HTML task</th>
             </tr>
             <tr>
                 <th>Task Number</th>
