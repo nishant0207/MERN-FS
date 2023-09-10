@@ -64,6 +64,10 @@
                 <td>Task12</td>
                 <td><a href="./Task12.html" style="color: red;">Link12</a></td>
             </tr>
+            <tr>
+                <td>Task12</td>
+                <td><a href="./BS_Task1.html" style="color: red;">Bootstrap Task 1</a></td>
+            </tr>
         </table>
     </center>
 </body>
