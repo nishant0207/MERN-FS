@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
     <center>
         <h1 style="background-color: black; color: aliceblue; font-family:'Courier New', Courier, monospace">Nishant's Index page</h1>
         <table border="1" style="border-width: 10px; border-radius: 20px; border-block-color: white;">
             <tr>
-                <th colspan="2" style="color: aliceblue; background-color: black;"">HTML task</th>
+                <th colspan="2" style="color: aliceblue; background-color: black;">HTML task</th>
             </tr>
             <tr>
                 <th>Task Number</th>
