@@ -63,18 +63,6 @@
                 <td>Task12</td>
                 <td><a href="./Task12.html" style="color: red;">Link12</a></td>
             </tr>
-            <tr>
-                <td>Task13</td>
-                <td><a href="./BS_Task1.html" style="color: red;">Bootstrap Task 1</a></td>
-            </tr>
-            <tr>
-                <td>Task14</td>
-                <td><a href="./BS_Task2.html" style="color: red;">Bootstrap Task 2</a></td>
-            </tr>
-            <tr>
-                <td>Task15</td>
-                <td><a href="./BS_Task3.html" style="color: red;">Bootstrap Task 3</a></td>
-            </tr>
         </table>
     </center>
 </body>
